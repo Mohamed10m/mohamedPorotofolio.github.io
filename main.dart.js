@@ -59636,7 +59636,7 @@ A.xi.prototype={
 I(a){var s=null,r=a.P(t.w).f.a.a>=1100?B.d9:B.a5,q=A.dN(s,20,s),p=A.dc("HELLO TO MY WORLD",s,s,s),o=A.aC($.eS()),n=A.aC($.eS()).RG.w.cg(B.ab),m=t.nO,l=t.p
 return A.fw(A.a([q,p,new A.cr(new A.ay(0,20,0,20),A.ab4(s,s,B.br,s,s,!0,s,A.mE(A.a([A.mE(A.a([A.mE(s,A.aC($.eS()).RG.w,"\na Professional Mobile Developer.")],m),n," Mohamed Mahmoud")],m),o.RG.w,"Hi, I'm"),B.as,s,s,1,B.a9),s),A.dc("I have been working since 2020, I am proficient in developing mobile apps Flutter and iOS",s,s,s),new A.cr(new A.ay(0,50,0,15),A.dc("Find me with",s,s,s),s),A.mm(A.a([A.iE(s,A.iD(B.A8,s,s),s,new A.a53(),"Resume"),A.iE(s,A.iD(B.A7,s,s),s,new A.a54(),"Mail"),A.iE(s,A.iD(B.A6,s,s),s,new A.a55(),"Github"),A.iE(s,A.iD(B.A1,s,s),s,new A.a56(),"Linkedin"),A.iE(s,A.iD(B.A0,s,s),s,new A.a57(),"Facebook"),A.iE(s,A.iD(B.Aa,s,s),s,new A.a58(),"Phone")],l),B.a5,B.dH,B.b2)],l),r,B.a1)}}
 A.a53.prototype={
-$0(){return A.k8("https://drive.google.com/drive/folders/1uZSCCUy1WlEwO0v2u5u-a5TcKlUFqw8e?usp=share_link")},
+$0(){return A.k8("https://drive.google.com/file/d/1DZxRCJoMC-tafH1h54YSTm5iw7Ol83En/view")},
 $S:0}
 A.a54.prototype={
 $0(){return A.D4("mohamedelshenawy629@gmail.com")},
@@ -59774,7 +59774,7 @@ m=s.j(0,"Technical Skills")
 return new A.vn(j,new A.G2(new A.ay(30,30,30,30),A.fw(A.a([new A.Jn(r),new A.MT(q),new A.MR(p),new A.IL(n,o),new A.LG(A.aak(),m),new A.xS(s.j(0,"Projects"))],t.p),B.aH,B.a1),l),k,l)}}
 A.DD.prototype={
 I(a){var s=$.ajU()
-return new A.u9($.aa_(),new A.tr(null),A.at2(),"Jemi's Portfolio",s,!1,null)}}
+return new A.u9($.aa_(),new A.tr(null),A.at2(),"Mohamed's Portfolio",s,!1,null)}}
 A.a8S.prototype={
 $1(a){var s=null
 return new A.cr(B.zE,A.abg(A.dc(a,A.hY(s,s,B.ax,s,s,s,s,s,s,s,s,s,s,s,B.aI,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a8R(this.a,a),s),s)},
@@ -62909,7 +62909,7 @@ B.Ca=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 B.fh=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
 B.E3=new A.Dl(null)
 B.GC=new A.p4(10,null,null,null)
-B.KT=new A.pp("Jemi",null,null,null,null,null)
+B.KT=new A.pp("Mohamed",null,null,null,null,null)
 B.Cb=A.a(s([B.E3,B.GC,B.KT]),t.p)
 B.dv=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.uU=new A.mP(0,"topLeft")
