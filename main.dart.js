@@ -18384,7 +18384,7 @@ case 3:return A.X(null,r)}})
 return A.Y($async$D5,r)},
 D4(a){var s=0,r=A.Z(t.H),q
 var $async$D4=A.a_(function(b,c){if(b===1)return A.W(c,r)
-while(true)switch(s){case 0:q="mailto:"+a+"?subject=Hello&body=Dear Ahmed"
+while(true)switch(s){case 0:q="mailto:"+a+"?subject=Hello&body=Dear Mohamed"
 s=5
 return A.a0(A.zi(q),$async$D4)
 case 5:s=c?2:4
@@ -59645,13 +59645,15 @@ A.a55.prototype={
 $0(){return A.k8("https://github.com/Mohamed10m/")},
 $S:0}
 A.a56.prototype={
-$0(){return A.k8("https://www.linkedin.com/in/jimmy2622000/")},
+$0(){return A.k8("https://www.linkedin.com/in/mohamed-mahmoud-b7227a182")},
+
+
 $S:0}
 A.a57.prototype={
-$0(){return A.k8("https://www.facebook.com/ahmed.ab0gameel/")},
+$0(){return A.k8("https://www.facebook.com/mohamedmahmoud.shino/")},
 $S:0}
 A.a58.prototype={
-$0(){return A.D5("+201553953843")},
+$0(){return A.D5("+201098564458")},
 $S:0}
 A.xS.prototype={
 ak(){return new A.xT(A.aak(),B.l)}}
