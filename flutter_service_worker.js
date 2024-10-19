@@ -49,7 +49,7 @@ const RESOURCES = {
 "assets/assets/images/projects/%25D9%2588%25D8%25B8%25D9%258A%25D9%2581%25D8%25AA%25D9%2583%2520%25D8%25B9%25D9%2584%25D9%258A%25D9%2586%25D8%25A7.png": "2c9ad61b0b623fc19a8959208a6518de",
 "assets/assets/images/projects/That%2520Day.png": "6fc8ff7d00c1ff9ce24eb553bd2274ae",
 "assets/assets/images/LeetCodeLogo.png": "72917c2234a9c41baf796c0b1fcbc200",
-"assets/assets/images/logo.jpg": "66cc1b3a5c91b1d4d0a6d41aa034c943",
+"assets/assets/images/logo.png": "66cc1b3a5c91b1d4d0a6d41aa034c943",
 "assets/assets/fonts/Tajawal-Regular.ttf": "6b10b55e4df612910047b7e5d596a9d5",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
