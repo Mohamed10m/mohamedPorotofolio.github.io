@@ -59636,22 +59636,22 @@ A.xi.prototype={
 I(a){var s=null,r=a.P(t.w).f.a.a>=1100?B.d9:B.a5,q=A.dN(s,20,s),p=A.dc("HELLO TO MY WORLD",s,s,s),o=A.aC($.eS()),n=A.aC($.eS()).RG.w.cg(B.ab),m=t.nO,l=t.p
 return A.fw(A.a([q,p,new A.cr(new A.ay(0,20,0,20),A.ab4(s,s,B.br,s,s,!0,s,A.mE(A.a([A.mE(A.a([A.mE(s,A.aC($.eS()).RG.w,"\na Professional Mobile Developer.")],m),n," Mohamed Mahmoud")],m),o.RG.w,"Hi, I'm"),B.as,s,s,1,B.a9),s),A.dc("I have been working since 2020, I am proficient in developing mobile apps Flutter and iOS",s,s,s),new A.cr(new A.ay(0,50,0,15),A.dc("Find me with",s,s,s),s),A.mm(A.a([A.iE(s,A.iD(B.A8,s,s),s,new A.a53(),"Resume"),A.iE(s,A.iD(B.A7,s,s),s,new A.a54(),"Mail"),A.iE(s,A.iD(B.A6,s,s),s,new A.a55(),"Github"),A.iE(s,A.iD(B.A1,s,s),s,new A.a56(),"Linkedin"),A.iE(s,A.iD(B.A0,s,s),s,new A.a57(),"Facebook"),A.iE(s,A.iD(B.Aa,s,s),s,new A.a58(),"Phone")],l),B.a5,B.dH,B.b2)],l),r,B.a1)}}
 A.a53.prototype={
-$0(){return A.k8("https://drive.google.com/drive/folders/1uZSCCUy1WlEwO0v2u5u-a5TcKlUFqw8e?usp=share_link")},
+$0(){return A.k8("file:///C:/Users/Shino/Downloads/Mohamed_Mahmoud.pdf")},
 $S:0}
 A.a54.prototype={
 $0(){return A.D4("mohamedelshenawy629@gmail.com")},
 $S:0}
 A.a55.prototype={
-$0(){return A.k8("https://github.com/AhmedAbogameel")},
+$0(){return A.k8("https://github.com/Mohamed10m")},
 $S:0}
 A.a56.prototype={
-$0(){return A.k8("https://www.linkedin.com/in/jimmy2622000/")},
+$0(){return A.k8("www.linkedin.com/in/mohamed-mahmoud-b7227a182")},
 $S:0}
 A.a57.prototype={
-$0(){return A.k8("https://www.facebook.com/ahmed.ab0gameel/")},
+$0(){return A.k8("https://www.facebook.com/mohamedmahmoud.shino/")},
 $S:0}
 A.a58.prototype={
-$0(){return A.D5("+201553953843")},
+$0(){return A.D5("+201098564458")},
 $S:0}
 A.xS.prototype={
 ak(){return new A.xT(A.aak(),B.l)}}
