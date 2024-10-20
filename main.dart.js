@@ -59755,7 +59755,7 @@ AV(a){var s,r=null,q=A.hY(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,2,!0,r,r,r,r,r,r,r,r),
 p===$&&A.c()
 p=p?B.d9:B.a5
 s=A.aC($.eS()).RG.x
-return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Ahmed Ashraf Abogameel.\n- Birthday Date 26-2-2000.\n- Live in Egypt, Cairo, New Maadi.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to get a new experiences and always learn from my surrounding.",r,r,r)],t.p),p,B.a1)}}
+return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Mohamed Mahmoud Ahmed.\n- Birthday Date 1-1-2000.\n- Live in Egypt, Cairo, New Maadi.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to get a new experiences and always learn from my surrounding.",r,r,r)],t.p),p,B.a1)}}
 A.tr.prototype={
 ak(){var s=null,r=t.C
 return new A.J7(A.aJ(["Intro",new A.bi(s,r),"Who I Am?",new A.bi(s,r),"What I Do?",new A.bi(s,r),"Experience",new A.bi(s,r),"Technical Skills",new A.bi(s,r),"Projects",new A.bi(s,r)],t.N,t.uY),B.l)}}
@@ -59772,7 +59772,7 @@ m=s.j(0,"Technical Skills")
 return new A.vn(j,new A.G2(new A.ay(30,30,30,30),A.fw(A.a([new A.Jn(r),new A.MT(q),new A.MR(p),new A.IL(n,o),new A.LG(A.aak(),m),new A.xS(s.j(0,"Projects"))],t.p),B.aH,B.a1),l),k,l)}}
 A.DD.prototype={
 I(a){var s=$.ajU()
-return new A.u9($.aa_(),new A.tr(null),A.at2(),"Jemi's Portfolio",s,!1,null)}}
+return new A.u9($.aa_(),new A.tr(null),A.at2(),"Mohamed's Portfolio",s,!1,null)}}
 A.a8S.prototype={
 $1(a){var s=null
 return new A.cr(B.zE,A.abg(A.dc(a,A.hY(s,s,B.ax,s,s,s,s,s,s,s,s,s,s,s,B.aI,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a8R(this.a,a),s),s)},
@@ -62907,7 +62907,7 @@ B.Ca=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 B.fh=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
 B.E3=new A.Dl(null)
 B.GC=new A.p4(10,null,null,null)
-B.KT=new A.pp("Jemi",null,null,null,null,null)
+B.KT=new A.pp("Mohamed",null,null,null,null,null)
 B.Cb=A.a(s([B.E3,B.GC,B.KT]),t.p)
 B.dv=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.uU=new A.mP(0,"topLeft")
