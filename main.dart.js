@@ -59667,7 +59667,7 @@ A.a57.prototype = {
 }
 A.a58.prototype = {
   $0() {
-    return A.k8("https://wa.me/201098564458"); // رابط الواتساب المباشر
+    return A.k8("https://wa.me/201098564458");
   },
   $S: 0
 }
@@ -59783,7 +59783,7 @@ I(a){var s,r,q,p,o,n,m,l=null,k=t.w,j=A.arw(a.P(k).f.a.a>=1100?this.d:A.z(t.N,t.
 k=a.P(k).f.a.a>=1100?l:new A.zG(this.d,l)
 s=this.d
 r=s.j(0,"Intro")
-q=s.j(0,"Who I Am?")
+q=s.j(0,"Who Am I?")
 p=s.j(0,"What I Do?")
 o=s.j(0,"Experience")
 n=A.aak()
