@@ -59637,7 +59637,7 @@ I(a){var s=null,r=a.P(t.w).f.a.a>=1100?B.d9:B.a5,q=A.dN(s,20,s),p=A.dc("HELLO TO
 return A.fw(A.a([q,p,new A.cr(new A.ay(0,20,0,20),A.ab4(s,s,B.br,s,s,!0,s,A.mE(A.a([A.mE(A.a([A.mE(s,A.aC($.eS()).RG.w,"\na Professional Mobile Developer.")],m),n," Mohamed Mahmoud")],m),o.RG.w,"Hi, I'm"),B.as,s,s,1,B.a9),s),A.dc("I have been working since 2020, I am proficient in developing mobile apps Flutter and iOS",s,s,s),new A.cr(new A.ay(0,50,0,15),A.dc("Find me with",s,s,s),s),A.mm(A.a([A.iE(s,A.iD(B.A8,s,s),s,new A.a53(),"Resume"),A.iE(s,A.iD(B.A7,s,s),s,new A.a54(),"Mail"),A.iE(s,A.iD(B.A6,s,s),s,new A.a55(),"Github"),A.iE(s,A.iD(B.A1,s,s),s,new A.a56(),"Linkedin"),A.iE(s,A.iD(B.A0,s,s),s,new A.a57(),"Facebook"),A.iE(s,A.iD(B.Aa,s,s),s,new A.a58(),"Phone")],l),B.a5,B.dH,B.b2)],l),r,B.a1)}}
 A.a53.prototype={
 $0() {
-  return A.k8("https://drive.google.com/file/d/1DZxRCJoMC-tafH1h54YSTm5iw7Ol83En/view?usp=drivesdk"); // رابط مباشر للسيرة الذاتية
+  return A.k8("https://drive.google.com/file/d/1DZxRCJoMC-tafH1h54YSTm5iw7Ol83En/view?usp=drivesdk");
 },
 $S: 0
 }
