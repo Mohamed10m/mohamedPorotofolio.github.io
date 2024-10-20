@@ -59774,7 +59774,7 @@ AV(a){var s,r=null,q=A.hY(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,2,!0,r,r,r,r,r,r,r,r),
 p===$&&A.c()
 p=p?B.d9:B.a5
 s=A.aC($.eS()).RG.x
-return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Mohamed Mahmoud Ahmed.\n- Birthday Date 1-1-2000.\n- Live in Egypt, Cairo, New Maadi.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to get a new experiences and always learn from my surrounding.",r,r,r)],t.p),p,B.a1)}}
+return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Mohamed Mahmoud Ahmed.\n- Birthday Date 1-1-2000.\n- Live in El-Dakahlia, Mansoura, Dekernes.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to get a new experiences and always learn from my surrounding.",r,r,r)],t.p),p,B.a1)}}
 A.tr.prototype={
 ak(){var s=null,r=t.C
 return new A.J7(A.aJ(["Intro",new A.bi(s,r),"Who I Am?",new A.bi(s,r),"What I Do?",new A.bi(s,r),"Experience",new A.bi(s,r),"Technical Skills",new A.bi(s,r),"Projects",new A.bi(s,r)],t.N,t.uY),B.l)}}
