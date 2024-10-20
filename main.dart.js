@@ -59786,7 +59786,7 @@ return A.ZJ(s,0,B.jI,B.bE,A.bQ(0,0,1))},
 $S:0}
 A.Dl.prototype={
 I(a){var s=null
-return A.hh(s,A.U4("assets/images/logo.png",B.ab,B.vC,30,30),B.o,s,s,new A.es(B.ax,s,s,s,s,s,B.eA),s,s,s,s,s,s,s)}}
+return A.hh(s,A.U4("assets/images/logo.png",B.ab,B.vC,90,90),B.o,s,s,new A.es(B.ax,s,s,s,s,s,B.eA),s,s,s,s,s,s,s)}}
 A.m_.prototype={
 I(a){var s=A.zX(8),r=A.ahT(a.P(t.w).f.a.a>=1100?4:1)
 return new A.cr(new A.ay(0,20,0,20),new A.AK(s,A.U4("assets/images/me.jpg",null,B.vD,A.io(1.5),r),null),null)}}
