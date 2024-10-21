@@ -59736,7 +59736,7 @@ A.a79.prototype={
 $2(a,b){return new A.j8(this.a.c.b[b],null)},
 $S:38}
 A.MR.prototype={
-I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Flutter Apps","Using Dart And Flutter","Expert",s),new A.qu(B.A4,new A.I(4280000759),"iOS Apps","Using Swift And Xcode",r,s),new A.qu(B.A_,B.Ex,"Android Apps","Using Java And Android Studio",r,s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
+//I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Flutter Apps","Using Dart And Flutter","Expert",s),new A.qu(B.A4,new A.I(4280000759),"iOS Apps","Using Swift And Xcode",r,s),new A.qu(B.A_,B.Ex,"Android Apps","Using Java And Android Studio",r,s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
 q=A.a([A.dc("What I Do?",n==null?s:n.cg(B.ab),B.aE,s),A.dN(s,10,s),A.dc("I'm Available For Hire",s,B.aE,s),A.dN(s,50,s)],q)
 if(a.P(t.w).f.a.a>=1100){n=t.vX
 q.push(A.mm(A.al(new A.aw(p,new A.a7D(),n),!0,n.i("bj.E")),B.a5,B.a1,B.b2))}else B.b.G(q,p)
@@ -59774,7 +59774,7 @@ AV(a){var s,r=null,q=A.hY(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,2,!0,r,r,r,r,r,r,r,r),
 p===$&&A.c()
 p=p?B.d9:B.a5
 s=A.aC($.eS()).RG.x
-return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Mohamed Mahmoud Ahmed.\n- Birthday Date 1-1-2000.\n- Live in El-Dakahlia, Mansoura, Dekernes.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to get a new experiences and always learn from my surrounding.",r,r,r)],t.p),p,B.a1)}}
+return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Mohamed Mahmoud Ahmed.\n- Birthday Date 1-1-2000.\n- Live in El-Dakahlia, Mansoura, Dekernes.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to gaining new experiences and always learn from my surroundings.",r,r,r)],t.p),p,B.a1)}}
 A.tr.prototype={
 ak(){var s=null,r=t.C
 return new A.J7(A.aJ(["Intro",new A.bi(s,r),"Who I Am?",new A.bi(s,r),"What I Do?",new A.bi(s,r),"Experience",new A.bi(s,r),"Technical Skills",new A.bi(s,r),"Projects",new A.bi(s,r)],t.N,t.uY),B.l)}}
