@@ -59736,9 +59736,9 @@ A.a79.prototype={
 $2(a,b){return new A.j8(this.a.c.b[b],null)},
 $S:38}
 A.MR.prototype={
-I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Flutter Apps","Using Dart And Flutter","Expert",s)],q),o=A.io(4),n=A.aC($.eS()).RG.x
+I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Flutter Apps","Using Dart And Flutter","Expert",s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
 q=A.a([A.dc("What I Do?",n==null?s:n.cg(B.ab),B.aE,s),A.dN(s,10,s),A.dc("I'm Available For Hire",s,B.aE,s),A.dN(s,50,s)],q)
-if(a.P(t.w).f.a.a>=1100){n=t.vX
+if(a.P(t.w).f.a.a>=500){n=t.vX
 q.push(A.mm(A.al(new A.aw(p,new A.a7D(),n),!0,n.i("bj.E")),B.a5,B.a1,B.b2))}else B.b.G(q,p)
 return new A.cr(new A.ay(0,o,0,o),A.fw(q,B.aH,B.a1),s)}}
 A.a7D.prototype={
