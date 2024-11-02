@@ -653,14 +653,14 @@ case 15:return B.Ha
 case 16:return B.H8
 case 17:return B.H9
 case 18:return B.Hb
-case 19:return B.Hc
-case 20:return B.Hd
-case 21:return B.H_
-case 22:return B.H0
-case 23:return B.H1
-case 25:return B.H2
-case 26:return B.H3
-case 27:return B.H4
+//case 19:return B.Hc
+//case 20:return B.Hd
+//case 21:return B.H_
+//case 22:return B.H0
+//case 23:return B.H1
+//case 25:return B.H2
+//case 26:return B.H3
+//case 27:return B.H4
 case 28:return B.H5
 default:return B.GZ}},
 at6(a){switch(a.a){case 0:return"butt"
