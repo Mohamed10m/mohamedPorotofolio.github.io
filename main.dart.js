@@ -59634,7 +59634,7 @@ I(a){var s=null,r=t.p
 return new A.mk(A.fw(A.a([new A.m_(s),new A.xi(s)],r),B.a5,B.a1),A.mm(A.a([new A.xi(s),new A.m_(s)],r),B.a5,B.r0,B.b2),s)}}
 A.xi.prototype={
 I(a){var s=null,r=a.P(t.w).f.a.a>=1100?B.d9:B.a5,q=A.dN(s,20,s),p=A.dc("HELLO TO MY WORLD",s,s,s),o=A.aC($.eS()),n=A.aC($.eS()).RG.w.cg(B.ab),m=t.nO,l=t.p
-return A.fw(A.a([q,p,new A.cr(new A.ay(0,20,0,20),A.ab4(s,s,B.br,s,s,!0,s,A.mE(A.a([A.mE(A.a([A.mE(s,A.aC($.eS()).RG.w,"\na Professional Mobile Developer.")],m),n," Mohamed Mahmoud")],m),o.RG.w,"Hi, I'm"),B.as,s,s,1,B.a9),s),A.dc("I have been working since 2020, I am proficient in developing mobile apps Flutter and iOS",s,s,s),new A.cr(new A.ay(0,50,0,15),A.dc("Find me with",s,s,s),s),A.mm(A.a([A.iE(s,A.iD(B.A8,s,s),s,new A.a53(),"Resume"),A.iE(s,A.iD(B.A7,s,s),s,new A.a54(),"Mail"),A.iE(s,A.iD(B.A6,s,s),s,new A.a55(),"Github"),A.iE(s,A.iD(B.A1,s,s),s,new A.a56(),"Linkedin"),A.iE(s,A.iD(B.A0,s,s),s,new A.a57(),"Facebook"),A.iE(s,A.iD(B.Aa,s,s),s,new A.a58(),"Phone")],l),B.a5,B.dH,B.b2)],l),r,B.a1)}}
+return A.fw(A.a([q,p,new A.cr(new A.ay(0,20,0,20),A.ab4(s,s,B.br,s,s,!0,s,A.mE(A.a([A.mE(A.a([A.mE(s,A.aC($.eS()).RG.w,"\na Professional Mobile Developer.")],m),n," Mohamed Mahmoud")],m),o.RG.w,"Hi, I'm"),B.as,s,s,1,B.a9),s),A.dc("I have been working since 2020, I am proficient in developing mobile applications for both Android and iOS platforms using flutter",s,s,s),new A.cr(new A.ay(0,50,0,15),A.dc("Find me with",s,s,s),s),A.mm(A.a([A.iE(s,A.iD(B.A8,s,s),s,new A.a53(),"Resume"),A.iE(s,A.iD(B.A7,s,s),s,new A.a54(),"Mail"),A.iE(s,A.iD(B.A6,s,s),s,new A.a55(),"Github"),A.iE(s,A.iD(B.A1,s,s),s,new A.a56(),"Linkedin"),A.iE(s,A.iD(B.A0,s,s),s,new A.a57(),"Facebook"),A.iE(s,A.iD(B.Aa,s,s),s,new A.a58(),"Phone")],l),B.a5,B.dH,B.b2)],l),r,B.a1)}}
 A.a53.prototype={
 $0() {
   return A.k8("https://drive.google.com/file/d/1DZxRCJoMC-tafH1h54YSTm5iw7Ol83En/view");
@@ -59736,7 +59736,8 @@ A.a79.prototype={
 $2(a,b){return new A.j8(this.a.c.b[b],null)},
 $S:38}
 A.MR.prototype={
-I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Flutter Apps","Using Dart And Flutter","Expert",s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
+A.MR.prototype={
+I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Build Mobile Apps","Building mobile applications that work on Android and IOS operating systems using the flutter framework.","Expert",s),new A.qu(s,s,"Fix Issues","I can help you all the bugs in your app","Expert",s),new A.qu(s,s,"Develop Your App","Add and develop all the modifications you want in your application to make it in the best possible form and the best performance.","Expert",s),],q),o=A.io(8),n=A.aC($.eS()).RG.x
 q=A.a([A.dc("What I Do?",n==null?s:n.cg(B.ab),B.aE,s),A.dN(s,10,s),A.dc("I'm Available For Hire",s,B.aE,s),A.dN(s,50,s)],q)
 if(a.P(t.w).f.a.a>=1100){n=t.vX
 q.push(A.mm(A.al(new A.aw(p,new A.a7D(),n),!0,n.i("bj.E")),B.a5,B.a1,B.b2))}else B.b.G(q,p)
