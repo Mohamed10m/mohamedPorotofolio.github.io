@@ -59736,7 +59736,7 @@ A.a79.prototype={
 $2(a,b){return new A.j8(this.a.c.b[b],null)},
 $S:38}
 A.MR.prototype={
-I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Build Mobile Apps","Building mobile applications that work on Android and IOS operating systems using the flutter framework.","Expert",s),new A.qu(B.A4,new A.I(4280000759),"Fix Issues","I can help you all the bugs in your app",r,s),new A.qu(B.A_,B.Ex,"Develop Your App","Add and develop all the modifications you want in your application to make it in the best possible form and the best performance.",r,s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
+I(a){var s=null,r="Expert",q=t.p,p=A.a([new A.qu(s,s,"Build Mobile Apps","Building mobile applications that work on Android and IOS operating systems using the flutter framework.","Expert",s),new A.qu(B.A4,new A.I(4280000759),"Fix Issues","I can help you all the bugs in your app",r,s),new A.qu(B.A_,B.Ex,"Develop Your App","Add and develop all the modifications you want in your application to make it in the best possible form and the best performance.",r,s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
 q=A.a([A.dc("What I Do?",n==null?s:n.cg(B.ab),B.aE,s),A.dN(s,10,s),A.dc("I'm Available For Hire",s,B.aE,s),A.dN(s,50,s)],q)
 if(a.P(t.w).f.a.a>=1100){n=t.vX
 q.push(A.mm(A.al(new A.aw(p,new A.a7D(),n),!0,n.i("bj.E")),B.a5,B.a1,B.b2))}else B.b.G(q,p)
