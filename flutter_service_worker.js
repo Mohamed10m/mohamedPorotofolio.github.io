@@ -47,7 +47,7 @@ const RESOURCES = {
 "assets/assets/images/projects/Hoper.png": "d32c9b3fc180c9df2aed4f479d332d3a",
 "assets/assets/images/projects/%25D8%25A3%25D8%25AE%25D8%25B6%25D8%25B1.png": "d753ffd5ccd5f681071c1b79ffe0e9be",
 "assets/assets/images/projects/GFS.png": "e015266777ef9a8c957122937f4dac35",
-"assets/assets/images/projects/%25D9%2586%25D9%2582%25D9%2584%2520%25D8%25B4%25D8%25A7%25D9%2585%25D9%2584.png": "5dab7c5f8aff8660bc5358255cc0ab53",
+"assets/assets/images/projects/Sawalif.png": "5dab7c5f8aff8660bc5358255cc0ab53",
 "assets/assets/images/projects/%25D9%2588%25D8%25B8%25D9%258A%25D9%2581%25D8%25AA%25D9%2583%2520%25D8%25B9%25D9%2584%25D9%258A%25D9%2586%25D8%25A7.png": "2c9ad61b0b623fc19a8959208a6518de",
 "assets/assets/images/projects/That%2520Day.png": "6fc8ff7d00c1ff9ce24eb553bd2274ae",
 "assets/assets/images/LeetCodeLogo.png": "72917c2234a9c41baf796c0b1fcbc200",
