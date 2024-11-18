@@ -28,6 +28,8 @@ const RESOURCES = {
 "assets/assets/images/me.jpg": "e831a8fa8735b4b9459f73f19407c7c3",
 "assets/assets/images/me.png": "d7f1e5df444eff1fd16304f91756320f",
 "assets/assets/images/DocApp.png": "d7f1e5df444eff1fd16304f91056320f",
+"assets/assets/images/E-Commerce.png": "d2f1e5df444eff1fd16304f91056320f",
+"assets/assets/images/Autism App.png": "d2f1e5df444eff1fd16304f91056360f",
 "assets/assets/images/projects/Billionaries.png": "d7f1e5gf444eff1fd16304f91756320f",
 "assets/assets/images/projects/%25D8%25AA%25D8%25AF%25D9%2584%25D9%2584%2520%25D9%2583%25D8%25A7%25D8%25A8%25D8%25AA%25D9%2586%2520-Tdllal.png": "d2dc91bc7d72304f70144539da355300",
 "assets/assets/images/projects/%25D8%25B3%25D9%2587%25D9%258A%25D9%2584.png": "b279051f5f68157a1f7e53928056cde7",
