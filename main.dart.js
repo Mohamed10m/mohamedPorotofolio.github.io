@@ -18434,69 +18434,69 @@ return new A.Q8(
     "Familiar With RX",
     "Problem Solving"
   ], o),
-//  A.a([
-//    new A.bB(
-//      "", "Salon", "Salon booking, services, management.",
-//      "https://play.google.com/store/apps/details?id=com.spiderte8.salon",
-//      "https://apps.apple.com/us/app/salon-%D8%B5%D8%A7%D9%84%D9%88%D9%86/id6450271778", s
-//    ),
-//    new A.bB(
-//      "", "Sawalif", "Social Media App.",
-//      "https://play.google.com/store/apps/details?id=com.marhab.app",
-//      "https://play.google.com/store/apps/details?id=com.marhab.app", s
-//    ),
-//    new A.bB(
-//      "", "YourWater", "Enjoy journeys while purchasing products along the way.",
-//      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater",
-//      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater", s
-//    ),
-//    new A.bB(
-//      "", "Billionaries", "Learn online with ease and flexibility.",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
-//    ),
-//    new A.bB(
-//      "", "Billionaries", "Learn online with ease and flexibility.",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
-//    ),
-//    new A.bB(
-//      "", "DocApp", "Medical consultations, appointments, and health management.",
-//      s, s, "https://github.com/Mohamed10m/doc_app.git"
-//    ),
-//    new A.bB(
-//      "", "E-Commerce", "Seamless shopping and secure transactions.",
-//      s, s, "https://github.com/Mohamed10m/E-Commerce.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
-//      s, s, "https://github.com/Mohamed10m/fitness.git"
-//    ),
-//    new A.bB(
-//      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
-//      s, s, "https://github.com/Mohamed10m/fitness.git"
-//    ),new A.bB(
-//      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
-//      s, s, "https://github.com/Mohamed10m/fitness.git"
-//    )
-//  ])
-//);
+  A.a([
+    new A.bB(
+      "", "Salon", "Salon booking, services, management.",
+      "https://play.google.com/store/apps/details?id=com.spiderte8.salon",
+      "https://apps.apple.com/us/app/salon-%D8%B5%D8%A7%D9%84%D9%88%D9%86/id6450271778", s
+    ),
+    new A.bB(
+      "", "Sawalif", "Social Media App.",
+      "https://play.google.com/store/apps/details?id=com.marhab.app",
+      "https://play.google.com/store/apps/details?id=com.marhab.app", s
+    ),
+    new A.bB(
+      "", "YourWater", "Enjoy journeys while purchasing products along the way.",
+      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater",
+      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater", s
+    ),
+    new A.bB(
+      "", "Billionaries", "Learn online with ease and flexibility.",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
+    ),
+    new A.bB(
+      "", "Billionaries", "Learn online with ease and flexibility.",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
+    ),
+    new A.bB(
+      "", "DocApp", "Medical consultations, appointments, and health management.",
+      s, s, "https://github.com/Mohamed10m/doc_app.git"
+    ),
+    new A.bB(
+      "", "E-Commerce", "Seamless shopping and secure transactions.",
+      s, s, "https://github.com/Mohamed10m/E-Commerce.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
+      s, s, "https://github.com/Mohamed10m/fitness.git"
+    ),
+    new A.bB(
+      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
+      s, s, "https://github.com/Mohamed10m/fitness.git"
+    ),new A.bB(
+      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
+      s, s, "https://github.com/Mohamed10m/fitness.git"
+    )
+  ])
+);
 Q8:function Q8(a,b,c){this.a=a
 this.b=b
 this.c=c},
