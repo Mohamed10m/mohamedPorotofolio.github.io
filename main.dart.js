@@ -18407,7 +18407,93 @@ _.d=d
 _.e=e
 _.f=f},
 aak(){var s=null,r="Freelance platform 2 vendor (Client-Provider).",q="E-Commerce App.",p="Haraj App for selling buying cars Like OLX.",o=t.s
-return new A.Q8(A.a(["Mobile Developer at SpiderTich\n( 1/2023 - 10/2024 ).","Built a real-time chat app using Socket.IO for instant communication","Integrated Firebase Cloud Messaging for real-time push notifications, enhancing the user experience.","Implemented CI/CD pipelines for automating the build, test, and deployment processes. Used GitHub Actions.","I integrated Google Maps to provide location-based features, enhancing the overall user experience.","Utilized Agora for real-time communication and audio/video calls within applications.","I implemented encryption in the course application to ensure secure data transmission and protect user information."],o),A.a(["Programming Languages\n( Dart )","Architecture Patterns\n( BLoC, MVC, MVVM ,Layers Based,Features Based)","CI / CD","Firebase","Rest API","Sockets","WebRTC, Agora","State Management Concept","Testing\n( Unit, Widget, Integration )","Version Control System","Dependency Injection","Familiar with SOLID Principles","Familiar With Popular Design Pattern.","Familiar With RX","Problem Solving"],o),A.a([new A.bB("","Salon","Salon booking, services, management.","https://play.google.com/store/apps/details?id=com.spiderte8.salon","https://apps.apple.com/us/app/salon-%D8%B5%D8%A7%D9%84%D9%88%D9%86/id6450271778",s),new A.bB("","Sawalif","Social Media App.","https://play.google.com/store/apps/details?id=com.marhab.app","https://play.google.com/store/apps/details?id=com.marhab.app",s),new A.bB("","YourWater", "Enjoy journeys while purchasing products along the way.","https://play.google.com/store/apps/details?id=com.spiderte8.urwater","https://play.google.com/store/apps/details?id=com.spiderte8.urwater",s),new A.bB("","Billionaries", "Learn online with ease and flexibility.","https://play.google.com/store/apps/details?id=com.billionaries.app","https://play.google.com/store/apps/details?id=com.billionaries.app",s),new A.bB("","Billionaries", "Learn online with ease and flexibility.","https://play.google.com/store/apps/details?id=com.billionaries.app","https://play.google.com/store/apps/details?id=com.billionaries.app",s),new A.bB("","DocApp","Medical consultations, appointments, and health management.",s,s,"https://github.com/Mohamed10m/doc_app.git"),new A.bB("","E-Commerce","Seamless shopping and secure transactions.",s,s,"https://github.com/Mohamed10m/E-Commerce.git"),new A.bB("","Autism","Autism therapy and development support.",s,s,"https://github.com/Mohamed10m/autismapp.git"),new A.bB("","Autism","Autism therapy and development support.",s,s,"https://github.com/Mohamed10m/autismapp.git"),new A.bB("","Autism","Autism therapy and development support.",s,s,"https://github.com/Mohamed10m/autismapp.git"),new A.bB("","Autism","Autism therapy and development support.",s,s,"https://github.com/Mohamed10m/autismapp.git"),new A.bB("","Fitness","Comprehensive fitness app for workouts, tracking.",s,s,"https://github.com/Mohamed10m/fitness.git"),new A.bB("","Fitness","Comprehensive fitness app for workouts, tracking.",s,s,"https://github.com/Mohamed10m/fitness.git"),new A.bB("https://play-lh.googleusercontent.com/DDXoiNJIqXaDsf3WWG12oGxwxQafybJ856M2MmQz3sFtP5cG9gvDv_ncp7kXTYrXPuQ=s360","Keno App","For Social Problems Questions Using Firebase i helped a friend with.","https://play.google.com/store/apps/details?id=flutter.com.kenoapp",s,s),new A.bB("https://play-lh.googleusercontent.com/y0KLSnOZ6Gn7pjqiulxjGISZc2OKqaJWXU0QeKiBVtizR7baleXlCSiXOARGsHiuhqs=s360","Tamakon - \u062a\u0645\u0643\u064f\u0651\u0646\u200e","This App Controls An IOT Device For smart home Linked with Firebase.","https://play.google.com/store/apps/details?id=com.tamakon.tamakon",s,s)],t.fX))},]))},
+return new A.Q8(
+  A.a([
+    "Mobile Developer at SpiderTich\n( 1/2023 - 10/2024 ).",
+    "Built a real-time chat app using Socket.IO for instant communication",
+    "Integrated Firebase Cloud Messaging for real-time push notifications, enhancing the user experience.",
+    "Implemented CI/CD pipelines for automating the build, test, and deployment processes. Used GitHub Actions.",
+    "I integrated Google Maps to provide location-based features, enhancing the overall user experience.",
+    "Utilized Agora for real-time communication and audio/video calls within applications.",
+    "I implemented encryption in the course application to ensure secure data transmission and protect user information."
+  ], o),
+  A.a([
+    "Programming Languages\n( Dart )",
+    "Architecture Patterns\n( BLoC, MVC, MVVM ,Layers Based,Features Based)",
+    "CI / CD",
+    "Firebase",
+    "Rest API",
+    "Sockets",
+    "WebRTC, Agora",
+    "State Management Concept",
+    "Testing\n( Unit, Widget, Integration )",
+    "Version Control System",
+    "Dependency Injection",
+    "Familiar with SOLID Principles",
+    "Familiar With Popular Design Pattern.",
+    "Familiar With RX",
+    "Problem Solving"
+  ], o),
+  A.a([
+    new A.bB(
+      "", "Salon", "Salon booking, services, management.",
+      "https://play.google.com/store/apps/details?id=com.spiderte8.salon",
+      "https://apps.apple.com/us/app/salon-%D8%B5%D8%A7%D9%84%D9%88%D9%86/id6450271778", s
+    ),
+    new A.bB(
+      "", "Sawalif", "Social Media App.",
+      "https://play.google.com/store/apps/details?id=com.marhab.app",
+      "https://play.google.com/store/apps/details?id=com.marhab.app", s
+    ),
+    new A.bB(
+      "", "YourWater", "Enjoy journeys while purchasing products along the way.",
+      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater",
+      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater", s
+    ),
+    new A.bB(
+      "", "Billionaries", "Learn online with ease and flexibility.",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
+    ),
+    new A.bB(
+      "", "Billionaries", "Learn online with ease and flexibility.",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app",
+      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
+    ),
+    new A.bB(
+      "", "DocApp", "Medical consultations, appointments, and health management.",
+      s, s, "https://github.com/Mohamed10m/doc_app.git"
+    ),
+    new A.bB(
+      "", "E-Commerce", "Seamless shopping and secure transactions.",
+      s, s, "https://github.com/Mohamed10m/E-Commerce.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Autism", "Autism therapy and development support.",
+      s, s, "https://github.com/Mohamed10m/autismapp.git"
+    ),
+    new A.bB(
+      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
+      s, s, "https://github.com/Mohamed10m/fitness.git"
+    ),
+    new A.bB(
+      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
+      s, s, "https://github.com/Mohamed10m/fitness.git"
+    )
+  ])
+);
 Q8:function Q8(a,b,c){this.a=a
 this.b=b
 this.c=c},
