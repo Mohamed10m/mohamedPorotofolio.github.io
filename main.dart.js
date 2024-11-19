@@ -18465,15 +18465,7 @@ return new A.Q8(
                            "", "Autism", "Autism therapy and development support.",
                            s, s, "https://github.com/Mohamed10m/autismapp.git"
                          ),
-                         new A.bB(
-                           "", "Autism", "Autism therapy and development support.",
-                           s, s, "https://github.com/Mohamed10m/autismapp.git"
-                         ),
 
-                         new A.bB(
-                           "", "Autism", "Autism therapy and development support.",
-                           s, s, "https://github.com/Mohamed10m/autismapp.git"
-                         ),
                          new A.bB(
                            "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
                            s, s, "https://github.com/Mohamed10m/fitness.git"
