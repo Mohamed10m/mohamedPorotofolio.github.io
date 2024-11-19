@@ -18407,33 +18407,33 @@ _.d=d
 _.e=e
 _.f=f},
 aak(){var s=null,r="Freelance platform 2 vendor (Client-Provider).",q="E-Commerce App.",p="Haraj App for selling buying cars Like OLX.",o=t.s
-//return new A.Q8(
-//  A.a([
-//    "Mobile Developer at SpiderTich\n( 1/2023 - 10/2024 ).",
-//    "Built a real-time chat app using Socket.IO for instant communication",
-//    "Integrated Firebase Cloud Messaging for real-time push notifications, enhancing the user experience.",
-//    "Implemented CI/CD pipelines for automating the build, test, and deployment processes. Used GitHub Actions.",
-//    "I integrated Google Maps to provide location-based features, enhancing the overall user experience.",
-//    "Utilized Agora for real-time communication and audio/video calls within applications.",
-//    "I implemented encryption in the course application to ensure secure data transmission and protect user information."
-//  ], o),
-//  A.a([
-//    "Programming Languages\n( Dart )",
-//    "Architecture Patterns\n( BLoC, MVC, MVVM ,Layers Based,Features Based)",
-//    "CI / CD",
-//    "Firebase",
-//    "Rest API",
-//    "Sockets",
-//    "WebRTC, Agora",
-//    "State Management Concept",
-//    "Testing\n( Unit, Widget, Integration )",
-//    "Version Control System",
-//    "Dependency Injection",
-//    "Familiar with SOLID Principles",
-//    "Familiar With Popular Design Pattern.",
-//    "Familiar With RX",
-//    "Problem Solving"
-//  ], o),
+return new A.Q8(
+  A.a([
+    "Mobile Developer at SpiderTich\n( 1/2023 - 10/2024 ).",
+    "Built a real-time chat app using Socket.IO for instant communication",
+    "Integrated Firebase Cloud Messaging for real-time push notifications, enhancing the user experience.",
+    "Implemented CI/CD pipelines for automating the build, test, and deployment processes. Used GitHub Actions.",
+    "I integrated Google Maps to provide location-based features, enhancing the overall user experience.",
+    "Utilized Agora for real-time communication and audio/video calls within applications.",
+    "I implemented encryption in the course application to ensure secure data transmission and protect user information."
+  ], o),
+  A.a([
+    "Programming Languages\n( Dart )",
+    "Architecture Patterns\n( BLoC, MVC, MVVM ,Layers Based,Features Based)",
+    "CI / CD",
+    "Firebase",
+    "Rest API",
+    "Sockets",
+    "WebRTC, Agora",
+    "State Management Concept",
+    "Testing\n( Unit, Widget, Integration )",
+    "Version Control System",
+    "Dependency Injection",
+    "Familiar with SOLID Principles",
+    "Familiar With Popular Design Pattern.",
+    "Familiar With RX",
+    "Problem Solving"
+  ], o),
 //  A.a([
 //    new A.bB(
 //      "", "Salon", "Salon booking, services, management.",
