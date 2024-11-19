@@ -18384,7 +18384,7 @@ case 3:return A.X(null,r)}})
 return A.Y($async$D5,r)},
 D4(a){var s=0,r=A.Z(t.H),q
 var $async$D4=A.a_(function(b,c){if(b===1)return A.W(c,r)
-while(true)switch(s){case 0:q="mailto:"+a+"?subject=Hello&body=Dear Mohamed"
+while(true)switch(s){case 0:q="mailto:"+a+"?subject=Hello&body=Dear Ahmed"
 s=5
 return A.a0(A.zi(q),$async$D4)
 case 5:s=c?2:4
@@ -18407,96 +18407,7 @@ _.d=d
 _.e=e
 _.f=f},
 aak(){var s=null,r="Freelance platform 2 vendor (Client-Provider).",q="E-Commerce App.",p="Haraj App for selling buying cars Like OLX.",o=t.s
-return new A.Q8(
-  A.a([
-    "Mobile Developer at SpiderTich\n( 1/2023 - 10/2024 ).",
-    "Built a real-time chat app using Socket.IO for instant communication",
-    "Integrated Firebase Cloud Messaging for real-time push notifications, enhancing the user experience.",
-    "Implemented CI/CD pipelines for automating the build, test, and deployment processes. Used GitHub Actions.",
-    "I integrated Google Maps to provide location-based features, enhancing the overall user experience.",
-    "Utilized Agora for real-time communication and audio/video calls within applications.",
-    "I implemented encryption in the course application to ensure secure data transmission and protect user information."
-  ], o),
-  A.a([
-    "Programming Languages\n( Dart )",
-    "Architecture Patterns\n( BLoC, MVC, MVVM ,Layers Based,Features Based)",
-    "CI / CD",
-    "Firebase",
-    "Rest API",
-    "Sockets",
-    "WebRTC, Agora",
-    "State Management Concept",
-    "Testing\n( Unit, Widget, Integration )",
-    "Version Control System",
-    "Dependency Injection",
-    "Familiar with SOLID Principles",
-    "Familiar With Popular Design Pattern.",
-    "Familiar With RX",
-    "Problem Solving"
-  ], o),
-//  A.a([
-//    new A.bB(
-//      "", "Salon", "Salon booking, services, management.",
-//      "https://play.google.com/store/apps/details?id=com.spiderte8.salon",
-//      "https://apps.apple.com/us/app/salon-%D8%B5%D8%A7%D9%84%D9%88%D9%86/id6450271778", s
-//    ),
-//    new A.bB(
-//      "", "Sawalif", "Social Media App.",
-//      "https://play.google.com/store/apps/details?id=com.marhab.app",
-//      "https://play.google.com/store/apps/details?id=com.marhab.app", s
-//    ),
-//    new A.bB(
-//      "", "YourWater", "Enjoy journeys while purchasing products along the way.",
-//      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater",
-//      "https://play.google.com/store/apps/details?id=com.spiderte8.urwater", s
-//    ),
-//    new A.bB(
-//      "", "Billionaries", "Learn online with ease and flexibility.",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
-//    ),
-//    new A.bB(
-//      "", "Billionaries", "Learn online with ease and flexibility.",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app",
-//      "https://play.google.com/store/apps/details?id=com.billionaries.app", s
-//    ),
-//    new A.bB(
-//      "", "DocApp", "Medical consultations, appointments, and health management.",
-//      s, s, "https://github.com/Mohamed10m/doc_app.git"
-//    ),
-//    new A.bB(
-//      "", "E-Commerce", "Seamless shopping and secure transactions.",
-//      s, s, "https://github.com/Mohamed10m/E-Commerce.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Autism", "Autism therapy and development support.",
-//      s, s, "https://github.com/Mohamed10m/autismapp.git"
-//    ),
-//    new A.bB(
-//      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
-//      s, s, "https://github.com/Mohamed10m/fitness.git"
-//    ),
-//    new A.bB(
-//      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
-//      s, s, "https://github.com/Mohamed10m/fitness.git"
-//    ),new A.bB(
-//      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
-//      s, s, "https://github.com/Mohamed10m/fitness.git"
-//    )
-//  ])
-//);
+return new A.Q8(A.a(["Mobile Developer at \u0623\u062e\u0636\u0631\n( 2022 - Present ).","Flutter Instructor at FCIS MU\n( 8/2022 - Present ).","Mobile Developer at Morb7\n( 2020 - Present ).","Flutter Instructor at InOut\n( 2021 - 2022 ).","Certified as Flutter Instructor\nfrom UCCD MU.","Flutter Developer at The Fourth Pyramid.\n( 3/2021 - 7/2021 )","Flutter Developer at Tamakon Startup\n( 2020 - 2021 )."],o),A.a(["Programming Languages\n( Dart, Swift , Java )","Architecture Patterns\n( BLoC, MVC, MVVM, MVP, MVI )","Clean Architecture with TDD","Firebase","Rest API","Sockets","WebRTC, Agora","State Management Concept","Testing\n( Unit, Widget, Integration )","Version Control System","Dependency Injection","Familiar with SOLID Principles","Familiar With Popular Design Pattern.","Familiar With RX","Problem Solving"],o),A.a([new A.bB("","\u0623\u062e\u0636\u0631","Audio Book App.","https://play.google.com/store/apps/details?id=com.a5dr.app","https://apps.apple.com/us/app/%D8%A3%D8%AE%D8%B6%D8%B1-%D9%85%D9%84%D8%AE%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%AA%D8%A8/id1454030988",s),new A.bB("","YouVar","Football app like FilGoal.",s,s,"https://drive.google.com/drive/folders/1j3LyZRUAxQ8MgWw4dYL5MI33mtqJ-Spx?usp=sharing"),new A.bB("","\u062a\u0645\u0647\u064a\u0631",r,"https://play.google.com/store/apps/details?id=com.app.tamhir",s,s),new A.bB("","\u0633\u0647\u064a\u0644","Freelance platform 2 vendor (Client-Captain).",s,"https://apps.apple.com/us/app/suhail-%D8%B3%D9%87%D9%8A%D9%84/id1644121617",s),new A.bB("","\u0622\u0641\u0627\u0642 \u0644\u0627\u064a\u062a","A Lite version of Afaq App Chat.","https://play.google.com/store/apps/details?id=com.afaq.app",s,s),new A.bB("https://lh3.googleusercontent.com/Fmg-ciivKOnkjRxVZzSwyTVmuO1_Kf3gfx_aga5ujEbhS8vzUQ_nR-ehzXUDFOE7Ndg","\u0627\u0644\u0639\u0627\u0632\u0644 \u0627\u0644\u0634\u0641\u0627\u0641",q,"https://play.google.com/store/apps/details?id=com.elshafaaf.elazel",s,s),new A.bB("","\u0635\u0644\u0629","E-Commerce App 2 Vendor (Client-Provider).",s,s,"https://drive.google.com/drive/folders/1Hhmmgu6jwuvH-5ojW3t5QDX-hCgZyvFA?usp=sharing"),new A.bB("","\u0623\u0648\u06a4\u0631","Google Maps App like In Driver.","https://play.google.com/store/apps/details?id=com.awfar.offer","https://apps.apple.com/eg/app/%D8%A3%D9%88%DA%A4%D8%B1/id1584494237",s),new A.bB("","That Day",r,s,s,"https://drive.google.com/drive/folders/1_4P1KqEVmdTZklZjEg9u3bi-8xoqSR8R?usp=sharing"),new A.bB("","El Mwslaty-Delivery","DeliveryApp for ElMwslaty App.","https://play.google.com/store/apps/details?id=com.techunique.moslatydelivery","https://apps.apple.com/us/app/al-mwslaty-delivery/id1603117981",s),new A.bB("","GFS",q,s,s,"https://drive.google.com/file/d/113l4wnBc8AiUid9gmpL5dgxZxnZp5qDe/view?usp=sharing"),new A.bB("","\u0627\u0641\u0627\u0642 \u0644\u0644\u0648\u0633\u0627\u0637\u0647","Chat App using Socket IO.","https://play.google.com/store/apps/details?id=com.afaqalsyola.app","https://apps.apple.com/eg/app/%D8%A7%D9%81%D8%A7%D9%82-%D9%84%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D9%87/id1549029154",s),new A.bB("","\u062a\u062f\u0644\u0644-Tdllal","Shopping App Like Talabat.","https://play.google.com/store/apps/details?id=com.tdllal.tdllal","https://apps.apple.com/eg/app/%D8%AA%D8%AF%D9%84%D9%84-tdllal/id1561528114",s),new A.bB("","\u062a\u062f\u0644\u0644 \u0643\u0627\u0628\u062a\u0646 -Tdllal","Delivery App for Tdllal like Talabat Rider.","https://play.google.com/store/apps/details?id=com.tdllal.tdllal_captain","https://apps.apple.com/eg/app/%D8%AA%D8%AF%D9%84%D9%84-%D9%83%D8%A7%D8%A8%D8%AA%D9%86-tdllal/id1565819100",s),new A.bB("","Hoper","Allows you to see properties near you.",s,s,s),new A.bB("","InDesign","A Freelancing Platform Makes connection between designers and users.",s,s,s),new A.bB("","\u0648\u0638\u064a\u0641\u062a\u0643 \u0639\u0644\u064a\u0646\u0627","Allows users to see different jobs in different fields.",s,s,s),new A.bB("","T-One","A Social Media App Using Socket IO and APIs, You can post any media, Chat with others and Make your own groups.","https://play.google.com/store/apps/details?id=com.abdallah.team_at","https://apps.apple.com/eg/app/tone/id1561592540",s),new A.bB("https://play-lh.googleusercontent.com/Iw9KWqpJv-cWbML2PFBwc5VCizJZxgqVZ490GaTDbxUtdY0L97c-qSfImUA3t9c2rAf5=s360","\u0642\u0631\u0622\u0646\u0643\u0645","Listening and Reading Quran Online or Offline.","https://play.google.com/store/apps/details?id=com.mwafy.quraan","https://apps.apple.com/us/app/%D9%82%D8%B1%D8%A2%D9%86%D9%83%D9%85/id1608194269",s),new A.bB("","\u0627\u0633\u0631 \u0645\u0646\u062a\u062c\u0629","Two Vendors App Makes Connection Between Families and users for selling different items.","https://play.google.com/store/apps/details?id=com.osar.osarMontegah","https://apps.apple.com/eg/app/%D8%A7%D8%B3%D8%B1-%D9%85%D9%86%D8%AA%D8%AC%D8%A9/id1576538776",s),new A.bB("","\u0633\u0646\u0627\u0628\u0644","Sell or Buy your agricultural items like OLX but in Agricultural Field.","https://play.google.com/store/apps/details?id=com.sanabil.sanabil","https://apps.apple.com/eg/app/%D8%B3%D9%86%D8%A7%D8%A8%D9%84/id1570151836",s),new A.bB("https://raw.githubusercontent.com/AhmedAbogameel/pet_adoption/master/assets/images/logo.png","Pongo","Post your pet to be adopted or Adopt a pet.(Using Firebase)","https://play.google.com/store/apps/details?id=com.abogameel.pongo",s,s),new A.bB("","\u0646\u0642\u0644 \u0634\u0627\u0645\u0644","Two Vendors Google Maps App for trips like Uber.","https://play.google.com/store/apps/details?id=com.naql.naql_shamil",s,s),new A.bB("","\u0645\u0632\u0627\u062f\u064a",p,s,s,"https://drive.google.com/file/d/1-yoFERo-DTJxqlEjYmSWpJeu-HjzQc7z/view?usp=sharing"),new A.bB("","\u0645\u062a\u062c\u0631 \u062f\u0641\u064a\u0646\u0627 \u0633\u062a\u0648\u0631",q,"https://play.google.com/store/apps/details?id=com.dvina.store","https://apps.apple.com/eg/app/%D8%AF%D9%81%D9%8A%D9%86%D8%A7-%D8%B3%D8%AA%D9%88%D8%B1/id1549941717",s),new A.bB("https://lh3.googleusercontent.com/etagCudU3sgaJS7m4B5_A3JAc_AFv-DgKzV71NiUwfBvdik-yVL0AlDFygvdJ10VVZA","\u062f\u0627\u06312\u0643\u0627\u0631",p,"https://play.google.com/store/apps/details?id=com.darcar","https://apps.apple.com/eg/app/%D8%AF%D8%A7%D8%B12%D9%83%D8%A7%D8%B1/id1547112929",s),new A.bB("https://play-lh.googleusercontent.com/DDXoiNJIqXaDsf3WWG12oGxwxQafybJ856M2MmQz3sFtP5cG9gvDv_ncp7kXTYrXPuQ=s360","Keno App","For Social Problems Questions Using Firebase i helped a friend with.","https://play.google.com/store/apps/details?id=flutter.com.kenoapp",s,s),new A.bB("https://play-lh.googleusercontent.com/y0KLSnOZ6Gn7pjqiulxjGISZc2OKqaJWXU0QeKiBVtizR7baleXlCSiXOARGsHiuhqs=s360","Tamakon - \u062a\u0645\u0643\u064f\u0651\u0646\u200e","This App Controls An IOT Device For smart home Linked with Firebase.","https://play.google.com/store/apps/details?id=com.tamakon.tamakon",s,s)],t.fX))},
 Q8:function Q8(a,b,c){this.a=a
 this.b=b
 this.c=c},
@@ -19902,7 +19813,7 @@ ca(a,b,c){var s=c==null?b:c
 this.a.ca(0,b,s)
 return null},
 eR(a,b){this.a.eR(0,b)},
-Y(a,b){if(b.length!==16)throw A.d(A.cf('"matrix4" must have 13 entries.',null))
+Y(a,b){if(b.length!==16)throw A.d(A.cf('"matrix4" must have 16 entries.',null))
 this.a.Y(0,A.O5(b))},
 ms(a,b,c){this.a.kF(a,b,c)},
 F7(a,b){return this.ms(a,B.bC,b)},
@@ -59685,7 +59596,7 @@ A.bB.prototype={}
 A.Q8.prototype={}
 A.zG.prototype={
 I(a){var s,r,q=null,p=A.io(10)
-p=A.a([A.C3(new A.Ac(A.U4("assets/images/me.png",q,q,q,q),B.ax,p,q),2),A.dN(q,20,q)],t.p)
+p=A.a([A.C3(new A.Ac(A.U4("assets/images/logo.png",q,q,q,q),B.ax,p,q),2),A.dN(q,20,q)],t.p)
 s=this.c
 r=A.l(s).i("aH<1>")
 r=A.iN(new A.aH(s,r),new A.OM(this),r.i("m.E"),t.Cx)
@@ -59723,50 +59634,31 @@ I(a){var s=null,r=t.p
 return new A.mk(A.fw(A.a([new A.m_(s),new A.xi(s)],r),B.a5,B.a1),A.mm(A.a([new A.xi(s),new A.m_(s)],r),B.a5,B.r0,B.b2),s)}}
 A.xi.prototype={
 I(a){var s=null,r=a.P(t.w).f.a.a>=1100?B.d9:B.a5,q=A.dN(s,20,s),p=A.dc("HELLO TO MY WORLD",s,s,s),o=A.aC($.eS()),n=A.aC($.eS()).RG.w.cg(B.ab),m=t.nO,l=t.p
-return A.fw(A.a([q,p,new A.cr(new A.ay(0,20,0,20),A.ab4(s,s,B.br,s,s,!0,s,A.mE(A.a([A.mE(A.a([A.mE(s,A.aC($.eS()).RG.w,"\na Professional Mobile Developer.")],m),n," Mohamed Mahmoud")],m),o.RG.w,"Hi, I'm"),B.as,s,s,1,B.a9),s),A.dc("I have been working since 2020, I am proficient in developing mobile applications for both Android and iOS platforms using flutter",s,s,s),new A.cr(new A.ay(0,50,0,15),A.dc("Find me with",s,s,s),s),A.mm(A.a([A.iE(s,A.iD(B.A8,s,s),s,new A.a53(),"Resume"),A.iE(s,A.iD(B.A7,s,s),s,new A.a54(),"Mail"),A.iE(s,A.iD(B.A6,s,s),s,new A.a55(),"Github"),A.iE(s,A.iD(B.A1,s,s),s,new A.a56(),"Linkedin"),A.iE(s,A.iD(B.A0,s,s),s,new A.a57(),"Facebook"),A.iE(s,A.iD(B.Aa,s,s),s,new A.a58(),"Phone")],l),B.a5,B.dH,B.b2)],l),r,B.a1)}}
+return A.fw(A.a([q,p,new A.cr(new A.ay(0,20,0,20),A.ab4(s,s,B.br,s,s,!0,s,A.mE(A.a([A.mE(A.a([A.mE(s,A.aC($.eS()).RG.w,"\na Professional Mobile Developer.")],m),n," Ahmed Abogameel")],m),o.RG.w,"Hi, I'm"),B.as,s,s,1,B.a9),s),A.dc("I have been working since 2019, I am proficient in developing mobile apps Flutter and iOS",s,s,s),new A.cr(new A.ay(0,50,0,15),A.dc("Find me with",s,s,s),s),A.mm(A.a([A.iE(s,A.iD(B.A8,s,s),s,new A.a53(),"Resume"),A.iE(s,A.iD(B.A7,s,s),s,new A.a54(),"Mail"),A.iE(s,A.iD(B.A6,s,s),s,new A.a55(),"Github"),A.iE(s,A.iD(B.A1,s,s),s,new A.a56(),"Linkedin"),A.iE(s,A.iD(B.A0,s,s),s,new A.a57(),"Facebook"),A.iE(s,A.iD(B.Aa,s,s),s,new A.a58(),"Phone")],l),B.a5,B.dH,B.b2)],l),r,B.a1)}}
 A.a53.prototype={
-$0() {
-  return A.k8("https://drive.google.com/file/d/1boZLofd82h_wSzn9KHmtQqTvIogbbFPK/view?usp=sharing");
-},
-$S: 0
-}
-A.a54.prototype = {
-  $0() {
-    return A.D4("mohamedelshenawy629@gmail.com");
-  },
-  $S: 0
-}
-A.a55.prototype = {
-  $0() {
-    return A.k8("https://github.com/Mohamed10m");
-  },
-  $S: 0
-}
-A.a56.prototype = {
-  $0() {
-    return A.k8("https://www.linkedin.com/in/mohamed-mahmoud-b7227a182/?trk=public-profile-join-page");
-  },
-  $S: 0
-}
-A.a57.prototype = {
-  $0() {
-    return A.k8("https://www.facebook.com/mohamedmahmoud.shino/");
-  },
-  $S: 0
-}
-A.a58.prototype = {
-  $0() {
-    return A.k8("https://wa.me/201098564458");
-  },
-  $S: 0
-}
-
+$0(){return A.k8("https://drive.google.com/drive/folders/1uZSCCUy1WlEwO0v2u5u-a5TcKlUFqw8e?usp=share_link")},
+$S:0}
+A.a54.prototype={
+$0(){return A.D4("ahmedabogameel81@gmail.com")},
+$S:0}
+A.a55.prototype={
+$0(){return A.k8("https://github.com/AhmedAbogameel")},
+$S:0}
+A.a56.prototype={
+$0(){return A.k8("https://www.linkedin.com/in/jimmy2622000/")},
+$S:0}
+A.a57.prototype={
+$0(){return A.k8("https://www.facebook.com/ahmed.ab0gameel/")},
+$S:0}
+A.a58.prototype={
+$0(){return A.D5("+201553953843")},
+$S:0}
 A.xS.prototype={
 ak(){return new A.xT(A.aak(),B.l)}}
 A.xT.prototype={
-a0j(){var s=this,r=s.e,q=r+3
-if(q<=9)s.e=q
-else if(r!==9)s.e=9
+a0j(){var s=this,r=s.e,q=r+6
+if(q<=28)s.e=q
+else if(r!==28)s.e=28
 s.ag(new A.a6l())},
 I(a){var s,r,q=this,p=null,o=A.io(7),n=A.aC($.eS()).RG.x
 n=A.a([A.dc("Projects",n==null?p:n.cg(B.ab),B.aE,p),A.dN(p,50,p)],t.p)
@@ -59774,7 +59666,7 @@ s=a.P(t.w).f
 r=q.e
 if(s.a.a>=1100)n.push(A.aaA(new A.vV(3,A.ahT(4.5)/A.io(3)),new A.a6j(q),r,new A.iR(p),!0))
 else n.push(A.aaO(new A.a6k(q),r,new A.iR(p),!0))
-if(q.e!==9){s=A.Pb(p,p,p,p,p,p,p,p,p,p,p,new A.cQ(new A.ay(50,20,50,20),t.ni),p,p,p,p,p,p,p,p)
+if(q.e!==28){s=A.Pb(p,p,p,p,p,p,p,p,p,p,p,new A.cQ(new A.ay(50,20,50,20),t.ni),p,p,p,p,p,p,p,p)
 n.push(new A.H3(A.abg(A.dc("See More",p,p,p),q.ga0i(),s),p))}return new A.cr(new A.ay(0,o,0,o),A.fw(n,B.aH,B.a1),p)}}
 A.a6l.prototype={
 $0(){},
@@ -59825,7 +59717,7 @@ A.a79.prototype={
 $2(a,b){return new A.j8(this.a.c.b[b],null)},
 $S:38}
 A.MR.prototype={
-I(a){var s=null,r="Expert",q=t.p,p=A.a([new A.qu(s,s,"Build Mobile Apps","Building mobile applications that work on Android and IOS operating systems using the flutter framework.","Expert",s),new A.qu(B.A4,new A.I(4280000759),"Fix Issues","I can help you all the bugs in your app",r,s),new A.qu(B.A_,B.Ex,"Develop Your App","Add and develop all the modifications you want in your application to make it in the best possible form and the best performance.",r,s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
+I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Flutter Apps","Using Dart And Flutter","Expert",s),new A.qu(B.A4,new A.I(4280000759),"iOS Apps","Using Swift And Xcode",r,s),new A.qu(B.A_,B.Ex,"Android Apps","Using Java And Android Studio",r,s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
 q=A.a([A.dc("What I Do?",n==null?s:n.cg(B.ab),B.aE,s),A.dN(s,10,s),A.dc("I'm Available For Hire",s,B.aE,s),A.dN(s,50,s)],q)
 if(a.P(t.w).f.a.a>=1100){n=t.vX
 q.push(A.mm(A.al(new A.aw(p,new A.a7D(),n),!0,n.i("bj.E")),B.a5,B.a1,B.b2))}else B.b.G(q,p)
@@ -59863,7 +59755,7 @@ AV(a){var s,r=null,q=A.hY(r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,2,!0,r,r,r,r,r,r,r,r),
 p===$&&A.c()
 p=p?B.d9:B.a5
 s=A.aC($.eS()).RG.x
-return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Mohamed Mahmoud Ahmed.\n- Birthday Date 1-1-2000.\n- Live in El-Dakahlia, Mansoura, Dekernes.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to gaining new experiences and always learn from my surroundings.",r,r,r)],t.p),p,B.a1)}}
+return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Ahmed Ashraf Abogameel.\n- Birthday Date 26-2-2000.\n- Live in Egypt, Cairo, New Maadi.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to get a new experiences and always learn from my surrounding.",r,r,r)],t.p),p,B.a1)}}
 A.tr.prototype={
 ak(){var s=null,r=t.C
 return new A.J7(A.aJ(["Intro",new A.bi(s,r),"Who I Am?",new A.bi(s,r),"What I Do?",new A.bi(s,r),"Experience",new A.bi(s,r),"Technical Skills",new A.bi(s,r),"Projects",new A.bi(s,r)],t.N,t.uY),B.l)}}
@@ -59872,7 +59764,7 @@ I(a){var s,r,q,p,o,n,m,l=null,k=t.w,j=A.arw(a.P(k).f.a.a>=1100?this.d:A.z(t.N,t.
 k=a.P(k).f.a.a>=1100?l:new A.zG(this.d,l)
 s=this.d
 r=s.j(0,"Intro")
-q=s.j(0,"Who Am I?")
+q=s.j(0,"Who I Am?")
 p=s.j(0,"What I Do?")
 o=s.j(0,"Experience")
 n=A.aak()
@@ -59880,7 +59772,7 @@ m=s.j(0,"Technical Skills")
 return new A.vn(j,new A.G2(new A.ay(30,30,30,30),A.fw(A.a([new A.Jn(r),new A.MT(q),new A.MR(p),new A.IL(n,o),new A.LG(A.aak(),m),new A.xS(s.j(0,"Projects"))],t.p),B.aH,B.a1),l),k,l)}}
 A.DD.prototype={
 I(a){var s=$.ajU()
-return new A.u9($.aa_(),new A.tr(null),A.at2(),"Mohamed's Portfolio",s,!1,null)}}
+return new A.u9($.aa_(),new A.tr(null),A.at2(),"Jemi's Portfolio",s,!1,null)}}
 A.a8S.prototype={
 $1(a){var s=null
 return new A.cr(B.zE,A.abg(A.dc(a,A.hY(s,s,B.ax,s,s,s,s,s,s,s,s,s,s,s,B.aI,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a8R(this.a,a),s),s)},
@@ -59894,7 +59786,7 @@ return A.ZJ(s,0,B.jI,B.bE,A.bQ(0,0,1))},
 $S:0}
 A.Dl.prototype={
 I(a){var s=null
-return A.hh(s,A.U4("assets/images/logo.png",B.ab,B.vC,22,22),B.o,s,s,new A.es(B.ax,s,s,s,s,s,B.eA),s,s,s,s,s,s,s)}}
+return A.hh(s,A.U4("assets/images/logo.png",B.ab,B.vC,30,30),B.o,s,s,new A.es(B.ax,s,s,s,s,s,B.eA),s,s,s,s,s,s,s)}}
 A.m_.prototype={
 I(a){var s=A.zX(8),r=A.ahT(a.P(t.w).f.a.a>=1100?4:1)
 return new A.cr(new A.ay(0,20,0,20),new A.AK(s,A.U4("assets/images/me.jpg",null,B.vD,A.io(1.5),r),null),null)}}
@@ -63015,7 +62907,7 @@ B.Ca=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 B.fh=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
 B.E3=new A.Dl(null)
 B.GC=new A.p4(10,null,null,null)
-B.KT=new A.pp("Mohamed",null,null,null,null,null)
+B.KT=new A.pp("Jemi",null,null,null,null,null)
 B.Cb=A.a(s([B.E3,B.GC,B.KT]),t.p)
 B.dv=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.uU=new A.mP(0,"topLeft")
