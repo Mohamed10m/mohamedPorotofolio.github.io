@@ -18491,6 +18491,9 @@ return new A.Q8(
     new A.bB(
       "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
       s, s, "https://github.com/Mohamed10m/fitness.git"
+    ),new A.bB(
+      "", "Fitness", "Comprehensive fitness app for workouts, tracking.",
+      s, s, "https://github.com/Mohamed10m/fitness.git"
     )
   ])
 );
