@@ -37,6 +37,7 @@ const RESOURCES = {
 "assets/assets/images/projects/%25D8%25A7%25D8%25B3%25D8%25B1%2520%25D9%2585%25D9%2586%25D8%25AA%25D8%25AC%25D8%25A9.png": "b00d4692bcd01f49df1492ee8aa43e8b",
 "assets/assets/images/projects/InDesign.png": "5f41517156843816ed4411e0826392b3",
 "assets/assets/images/projects/Sawalif.png": "6ea3dd4dc849c0a9be7799ae6b39c3d7",
+"assets/assets/images/projects/Fitness.png": "6ea3dd4dc849c0a9be7799ae6b39c3d7",
 "assets/assets/images/projects/%25D8%25AA%25D8%25AF%25D9%2584%25D9%2584-Tdllal.png": "531b81614cef8a8542fe07b2373268d9",
 "assets/assets/images/projects/%25D8%25A2%25D9%2581%25D8%25A7%25D9%2582%2520%25D9%2584%25D8%25A7%25D9%258A%25D8%25AA.png": "d213d30d0626cf6befdc940527e987b7",
 "assets/assets/images/projects/%25D9%2585%25D8%25B2%25D8%25A7%25D8%25AF%25D9%258A.png": "89a082268f79be362952c70dfe941ffa",
