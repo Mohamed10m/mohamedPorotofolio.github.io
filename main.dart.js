@@ -59736,7 +59736,8 @@ A.a57.prototype = {
 }
 A.a58.prototype = {
   $0() {
-    return A.k8("https://wa.me/0594364309");
+   return A.k8("https://wa.me/966594364309");
+
   },
   $S: 0
 }
